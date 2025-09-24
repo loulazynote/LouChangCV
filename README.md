@@ -14,5 +14,5 @@ Exploring code and systems is my playground—whether optimizing .NET backends o
 ## Personally
 
 - Diving into quirky gadgets? Always hunting the latest software plugins, 3C tech toys, or hidden gems that spark innovation—my desk is a mini lab of experiments.
-- Fueling up with exactly 2 cups of coffee daily; black, bold, and non-negotiable—it's my ritual for cracking tough code puzzles.
-- Mid-tier FPS and survival game enthusiast—strategizing escapes in Rust or headshots in Valorant keeps my reflexes sharp between deploys.
+- Fueling up with exactly 2 cups of coffee daily, black, bold, and non-negotiable—it's my ritual for cracking tough code puzzles.
+- Mid-tier FPS and survival game enthusiast—strategising escapes in Delta Force or headshots in Valorant keeps my reflexes sharp between deploys.
